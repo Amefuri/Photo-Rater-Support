@@ -1,0 +1,6 @@
+{
+  "name": "Photo-rater-support",
+  "tagline": "Support Page for iOS app submission",
+  "body": "# Photo Rater \r\n\r\nSee how many score you can get with your photo\r\nUpload a photo or take one from camera and let this app calculate a score for you.\r\n\r\n\r\nKey Features\r\n• Upload photo from photo gallery or camera\r\n• Recognize information from uploaded photo as tag\r\n• Calculate total score from each given tag\r\n• Share your photo score with your friend on Facebook",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
